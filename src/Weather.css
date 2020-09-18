@@ -1,0 +1,59 @@
+div img.weather_img	{
+	width: 56px;
+	margin: 2px;
+}
+
+div.cart {
+
+	width: 168px; 
+	height: 250px; 
+	border-radius: 10px;
+	padding: 0;
+	padding-top: 6px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #F4F4F4;
+    border: 1px solid #BBBBBB;
+    float: left;
+    margin: 6px;
+}
+
+div div.icon {
+	padding-top: 10px;
+	text-align: center;
+}
+
+div div.day {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 800;
+	margin: 6px;
+	text-transform: uppercase;
+}
+
+div div.data {
+	text-align: center;
+	font-size: 16px;
+
+}
+
+div div.max {
+	font-size: 23px;
+	font-weight: 900;
+}
+
+div div.min {
+	font-size: 23px;
+	color: #808080;
+	font-weight: 900;
+}
+
+div div.center {
+		text-align: center;
+}
+
+div div.cond {
+		text-align: center;
+		margin-bottom: 10px;
+        font-size: 16px;
+        height: 42px;
+}
